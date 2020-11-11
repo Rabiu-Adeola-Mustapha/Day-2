@@ -20,7 +20,7 @@ else{
     document.write("<h4>Error! You are not eligible to vote wait till you are 18!</h4>")
 }
 
-console.log();
+
 
 
 //let number1 = parseFloat(prompt('Enter first number: '));
